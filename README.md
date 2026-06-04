@@ -5,7 +5,6 @@
 ---
 
 ## 🌟 About Me
-- 🔹 3rd-year Computer Science Student passionate about software development and problem-solving  
 - 🔹 Building **K.S. Sports** – a full-stack e-commerce platform  
 - 🔹 Developed **Jarvis** – a voice-controlled virtual assistant using Python  
 - 🔹 Created **Smart Expense Tracker** – a Streamlit app with secure login and history feature  
