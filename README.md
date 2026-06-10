@@ -41,7 +41,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Virtual Assistant (Jarvis)** | Voice-controlled assistant using Python | [View](https://kashijain.github.io/virtual_assistant) |
-| **K.S. Sports** | Full-stack e-commerce platform (React + Node.js + MongoDB) | [View](https://github.com/kashijain) |
+| **K.S. Sports** | Full-stack e-commerce platform (React + Node.js + MongoDB) | [View](https://github.com/kashijain/kssports-mern) |
 | **Smart Expense Tracker** | Expense management app with secure login and history | [View](https://github.com/kashijain) |
 | **House Price Prediction** | Beginner ML project using Linear Regression to predict house prices | [View](https://github.com/kashijain/house-price-prediction) |
 
